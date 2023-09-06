@@ -1,0 +1,17 @@
+D:\programmation\dotnet\RabbitMQ\Topic\Emit\bin\Debug\net7.0\Emit.exe
+D:\programmation\dotnet\RabbitMQ\Topic\Emit\bin\Debug\net7.0\Emit.deps.json
+D:\programmation\dotnet\RabbitMQ\Topic\Emit\bin\Debug\net7.0\Emit.runtimeconfig.json
+D:\programmation\dotnet\RabbitMQ\Topic\Emit\bin\Debug\net7.0\Emit.dll
+D:\programmation\dotnet\RabbitMQ\Topic\Emit\bin\Debug\net7.0\Emit.pdb
+D:\programmation\dotnet\RabbitMQ\Topic\Emit\bin\Debug\net7.0\RabbitMQ.Client.dll
+D:\programmation\dotnet\RabbitMQ\Topic\Emit\obj\Debug\net7.0\Emit.csproj.AssemblyReference.cache
+D:\programmation\dotnet\RabbitMQ\Topic\Emit\obj\Debug\net7.0\Emit.GeneratedMSBuildEditorConfig.editorconfig
+D:\programmation\dotnet\RabbitMQ\Topic\Emit\obj\Debug\net7.0\Emit.AssemblyInfoInputs.cache
+D:\programmation\dotnet\RabbitMQ\Topic\Emit\obj\Debug\net7.0\Emit.AssemblyInfo.cs
+D:\programmation\dotnet\RabbitMQ\Topic\Emit\obj\Debug\net7.0\Emit.csproj.CoreCompileInputs.cache
+D:\programmation\dotnet\RabbitMQ\Topic\Emit\obj\Debug\net7.0\Emit.csproj.CopyComplete
+D:\programmation\dotnet\RabbitMQ\Topic\Emit\obj\Debug\net7.0\Emit.dll
+D:\programmation\dotnet\RabbitMQ\Topic\Emit\obj\Debug\net7.0\refint\Emit.dll
+D:\programmation\dotnet\RabbitMQ\Topic\Emit\obj\Debug\net7.0\Emit.pdb
+D:\programmation\dotnet\RabbitMQ\Topic\Emit\obj\Debug\net7.0\Emit.genruntimeconfig.cache
+D:\programmation\dotnet\RabbitMQ\Topic\Emit\obj\Debug\net7.0\ref\Emit.dll

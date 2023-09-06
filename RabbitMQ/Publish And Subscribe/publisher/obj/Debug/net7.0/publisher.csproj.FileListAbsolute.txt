@@ -1,0 +1,17 @@
+D:\programmation\dotnet\RabbitMQ\Publish And Subscribe\publisher\bin\Debug\net7.0\publisher.exe
+D:\programmation\dotnet\RabbitMQ\Publish And Subscribe\publisher\bin\Debug\net7.0\publisher.deps.json
+D:\programmation\dotnet\RabbitMQ\Publish And Subscribe\publisher\bin\Debug\net7.0\publisher.runtimeconfig.json
+D:\programmation\dotnet\RabbitMQ\Publish And Subscribe\publisher\bin\Debug\net7.0\publisher.dll
+D:\programmation\dotnet\RabbitMQ\Publish And Subscribe\publisher\bin\Debug\net7.0\publisher.pdb
+D:\programmation\dotnet\RabbitMQ\Publish And Subscribe\publisher\bin\Debug\net7.0\RabbitMQ.Client.dll
+D:\programmation\dotnet\RabbitMQ\Publish And Subscribe\publisher\obj\Debug\net7.0\publisher.csproj.AssemblyReference.cache
+D:\programmation\dotnet\RabbitMQ\Publish And Subscribe\publisher\obj\Debug\net7.0\publisher.GeneratedMSBuildEditorConfig.editorconfig
+D:\programmation\dotnet\RabbitMQ\Publish And Subscribe\publisher\obj\Debug\net7.0\publisher.AssemblyInfoInputs.cache
+D:\programmation\dotnet\RabbitMQ\Publish And Subscribe\publisher\obj\Debug\net7.0\publisher.AssemblyInfo.cs
+D:\programmation\dotnet\RabbitMQ\Publish And Subscribe\publisher\obj\Debug\net7.0\publisher.csproj.CoreCompileInputs.cache
+D:\programmation\dotnet\RabbitMQ\Publish And Subscribe\publisher\obj\Debug\net7.0\publisher.csproj.CopyComplete
+D:\programmation\dotnet\RabbitMQ\Publish And Subscribe\publisher\obj\Debug\net7.0\publisher.dll
+D:\programmation\dotnet\RabbitMQ\Publish And Subscribe\publisher\obj\Debug\net7.0\refint\publisher.dll
+D:\programmation\dotnet\RabbitMQ\Publish And Subscribe\publisher\obj\Debug\net7.0\publisher.pdb
+D:\programmation\dotnet\RabbitMQ\Publish And Subscribe\publisher\obj\Debug\net7.0\publisher.genruntimeconfig.cache
+D:\programmation\dotnet\RabbitMQ\Publish And Subscribe\publisher\obj\Debug\net7.0\ref\publisher.dll

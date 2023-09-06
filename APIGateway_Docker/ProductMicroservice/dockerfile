@@ -1,0 +1,22 @@
+﻿FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
+#set the working directory to /app within the container
+WORKDIR /app
+
+EXPOSE 443
+EXPOSE 80
+
+# copy project csproj file and restore it in docker directory
+# and restores the dependencies specified in the .csproj file
+COPY ./*.csproj ./
+RUN dotnet restore
+
+# Copy everything into the docker directory and build
+# and  compiles the application in Release mode and publishes the output to the out directory.
+COPY . .
+RUN dotnet publish -c Release -o out
+
+# Build runtime final image
+FROM mcr.microsoft.com/dotnet/aspnet:6.0
+WORKDIR /app
+COPY --from=build /app/out .
+ENTRYPOINT ["dotnet", "ProductMicroservice.dll"]

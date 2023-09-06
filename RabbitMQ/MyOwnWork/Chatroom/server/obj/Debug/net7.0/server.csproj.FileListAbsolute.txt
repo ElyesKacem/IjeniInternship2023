@@ -1,0 +1,17 @@
+D:\programmation\dotnet\RabbitMQ\MyOwnWork\Chatroom\server\obj\Debug\net7.0\server.csproj.AssemblyReference.cache
+D:\programmation\dotnet\RabbitMQ\MyOwnWork\Chatroom\server\obj\Debug\net7.0\server.GeneratedMSBuildEditorConfig.editorconfig
+D:\programmation\dotnet\RabbitMQ\MyOwnWork\Chatroom\server\obj\Debug\net7.0\server.AssemblyInfoInputs.cache
+D:\programmation\dotnet\RabbitMQ\MyOwnWork\Chatroom\server\obj\Debug\net7.0\server.AssemblyInfo.cs
+D:\programmation\dotnet\RabbitMQ\MyOwnWork\Chatroom\server\obj\Debug\net7.0\server.csproj.CoreCompileInputs.cache
+D:\programmation\dotnet\RabbitMQ\MyOwnWork\Chatroom\server\bin\Debug\net7.0\server.exe
+D:\programmation\dotnet\RabbitMQ\MyOwnWork\Chatroom\server\bin\Debug\net7.0\server.deps.json
+D:\programmation\dotnet\RabbitMQ\MyOwnWork\Chatroom\server\bin\Debug\net7.0\server.runtimeconfig.json
+D:\programmation\dotnet\RabbitMQ\MyOwnWork\Chatroom\server\bin\Debug\net7.0\server.dll
+D:\programmation\dotnet\RabbitMQ\MyOwnWork\Chatroom\server\bin\Debug\net7.0\server.pdb
+D:\programmation\dotnet\RabbitMQ\MyOwnWork\Chatroom\server\bin\Debug\net7.0\RabbitMQ.Client.dll
+D:\programmation\dotnet\RabbitMQ\MyOwnWork\Chatroom\server\obj\Debug\net7.0\server.csproj.CopyComplete
+D:\programmation\dotnet\RabbitMQ\MyOwnWork\Chatroom\server\obj\Debug\net7.0\server.dll
+D:\programmation\dotnet\RabbitMQ\MyOwnWork\Chatroom\server\obj\Debug\net7.0\refint\server.dll
+D:\programmation\dotnet\RabbitMQ\MyOwnWork\Chatroom\server\obj\Debug\net7.0\server.pdb
+D:\programmation\dotnet\RabbitMQ\MyOwnWork\Chatroom\server\obj\Debug\net7.0\server.genruntimeconfig.cache
+D:\programmation\dotnet\RabbitMQ\MyOwnWork\Chatroom\server\obj\Debug\net7.0\ref\server.dll

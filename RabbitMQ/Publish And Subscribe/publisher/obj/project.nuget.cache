@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "PHrAOOGSLdaX7rtKwXkKc1lBHjVW3sN962zVwgewz0dehk7N3caQVTSy3y7hbNwwBZo/AnzT3ZLQajj1YBpViw==",
+  "success": true,
+  "projectFilePath": "D:\\programmation\\dotnet\\RabbitMQ\\Publish And Subscribe\\publisher\\publisher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Elyes\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
+    "C:\\Users\\Elyes\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Elyes\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+D:\programmation\dotnet\RabbitMQ\Routing\EmitLogDirect\bin\Debug\net7.0\EmitLogDirect.exe
+D:\programmation\dotnet\RabbitMQ\Routing\EmitLogDirect\bin\Debug\net7.0\EmitLogDirect.deps.json
+D:\programmation\dotnet\RabbitMQ\Routing\EmitLogDirect\bin\Debug\net7.0\EmitLogDirect.runtimeconfig.json
+D:\programmation\dotnet\RabbitMQ\Routing\EmitLogDirect\bin\Debug\net7.0\EmitLogDirect.dll
+D:\programmation\dotnet\RabbitMQ\Routing\EmitLogDirect\bin\Debug\net7.0\EmitLogDirect.pdb
+D:\programmation\dotnet\RabbitMQ\Routing\EmitLogDirect\bin\Debug\net7.0\RabbitMQ.Client.dll
+D:\programmation\dotnet\RabbitMQ\Routing\EmitLogDirect\obj\Debug\net7.0\EmitLogDirect.csproj.AssemblyReference.cache
+D:\programmation\dotnet\RabbitMQ\Routing\EmitLogDirect\obj\Debug\net7.0\EmitLogDirect.GeneratedMSBuildEditorConfig.editorconfig
+D:\programmation\dotnet\RabbitMQ\Routing\EmitLogDirect\obj\Debug\net7.0\EmitLogDirect.AssemblyInfoInputs.cache
+D:\programmation\dotnet\RabbitMQ\Routing\EmitLogDirect\obj\Debug\net7.0\EmitLogDirect.AssemblyInfo.cs
+D:\programmation\dotnet\RabbitMQ\Routing\EmitLogDirect\obj\Debug\net7.0\EmitLogDirect.csproj.CoreCompileInputs.cache
+D:\programmation\dotnet\RabbitMQ\Routing\EmitLogDirect\obj\Debug\net7.0\EmitLogDirect.csproj.CopyComplete
+D:\programmation\dotnet\RabbitMQ\Routing\EmitLogDirect\obj\Debug\net7.0\EmitLogDirect.dll
+D:\programmation\dotnet\RabbitMQ\Routing\EmitLogDirect\obj\Debug\net7.0\refint\EmitLogDirect.dll
+D:\programmation\dotnet\RabbitMQ\Routing\EmitLogDirect\obj\Debug\net7.0\EmitLogDirect.pdb
+D:\programmation\dotnet\RabbitMQ\Routing\EmitLogDirect\obj\Debug\net7.0\EmitLogDirect.genruntimeconfig.cache
+D:\programmation\dotnet\RabbitMQ\Routing\EmitLogDirect\obj\Debug\net7.0\ref\EmitLogDirect.dll

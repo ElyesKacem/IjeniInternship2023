@@ -1,0 +1,17 @@
+D:\programmation\dotnet\RabbitMQ\Publish And Subscribe\subscriber\bin\Debug\net7.0\subscriber.exe
+D:\programmation\dotnet\RabbitMQ\Publish And Subscribe\subscriber\bin\Debug\net7.0\subscriber.deps.json
+D:\programmation\dotnet\RabbitMQ\Publish And Subscribe\subscriber\bin\Debug\net7.0\subscriber.runtimeconfig.json
+D:\programmation\dotnet\RabbitMQ\Publish And Subscribe\subscriber\bin\Debug\net7.0\subscriber.dll
+D:\programmation\dotnet\RabbitMQ\Publish And Subscribe\subscriber\bin\Debug\net7.0\subscriber.pdb
+D:\programmation\dotnet\RabbitMQ\Publish And Subscribe\subscriber\bin\Debug\net7.0\RabbitMQ.Client.dll
+D:\programmation\dotnet\RabbitMQ\Publish And Subscribe\subscriber\obj\Debug\net7.0\subscriber.csproj.AssemblyReference.cache
+D:\programmation\dotnet\RabbitMQ\Publish And Subscribe\subscriber\obj\Debug\net7.0\subscriber.GeneratedMSBuildEditorConfig.editorconfig
+D:\programmation\dotnet\RabbitMQ\Publish And Subscribe\subscriber\obj\Debug\net7.0\subscriber.AssemblyInfoInputs.cache
+D:\programmation\dotnet\RabbitMQ\Publish And Subscribe\subscriber\obj\Debug\net7.0\subscriber.AssemblyInfo.cs
+D:\programmation\dotnet\RabbitMQ\Publish And Subscribe\subscriber\obj\Debug\net7.0\subscriber.csproj.CoreCompileInputs.cache
+D:\programmation\dotnet\RabbitMQ\Publish And Subscribe\subscriber\obj\Debug\net7.0\subscriber.csproj.CopyComplete
+D:\programmation\dotnet\RabbitMQ\Publish And Subscribe\subscriber\obj\Debug\net7.0\subscriber.dll
+D:\programmation\dotnet\RabbitMQ\Publish And Subscribe\subscriber\obj\Debug\net7.0\refint\subscriber.dll
+D:\programmation\dotnet\RabbitMQ\Publish And Subscribe\subscriber\obj\Debug\net7.0\subscriber.pdb
+D:\programmation\dotnet\RabbitMQ\Publish And Subscribe\subscriber\obj\Debug\net7.0\subscriber.genruntimeconfig.cache
+D:\programmation\dotnet\RabbitMQ\Publish And Subscribe\subscriber\obj\Debug\net7.0\ref\subscriber.dll

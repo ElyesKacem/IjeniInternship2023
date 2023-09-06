@@ -1,0 +1,17 @@
+D:\programmation\dotnet\RabbitMQ\Work Queue\Worker\bin\Debug\net7.0\Worker.exe
+D:\programmation\dotnet\RabbitMQ\Work Queue\Worker\bin\Debug\net7.0\Worker.deps.json
+D:\programmation\dotnet\RabbitMQ\Work Queue\Worker\bin\Debug\net7.0\Worker.runtimeconfig.json
+D:\programmation\dotnet\RabbitMQ\Work Queue\Worker\bin\Debug\net7.0\Worker.dll
+D:\programmation\dotnet\RabbitMQ\Work Queue\Worker\bin\Debug\net7.0\Worker.pdb
+D:\programmation\dotnet\RabbitMQ\Work Queue\Worker\bin\Debug\net7.0\RabbitMQ.Client.dll
+D:\programmation\dotnet\RabbitMQ\Work Queue\Worker\obj\Debug\net7.0\Worker.csproj.AssemblyReference.cache
+D:\programmation\dotnet\RabbitMQ\Work Queue\Worker\obj\Debug\net7.0\Worker.GeneratedMSBuildEditorConfig.editorconfig
+D:\programmation\dotnet\RabbitMQ\Work Queue\Worker\obj\Debug\net7.0\Worker.AssemblyInfoInputs.cache
+D:\programmation\dotnet\RabbitMQ\Work Queue\Worker\obj\Debug\net7.0\Worker.AssemblyInfo.cs
+D:\programmation\dotnet\RabbitMQ\Work Queue\Worker\obj\Debug\net7.0\Worker.csproj.CoreCompileInputs.cache
+D:\programmation\dotnet\RabbitMQ\Work Queue\Worker\obj\Debug\net7.0\Worker.csproj.CopyComplete
+D:\programmation\dotnet\RabbitMQ\Work Queue\Worker\obj\Debug\net7.0\Worker.dll
+D:\programmation\dotnet\RabbitMQ\Work Queue\Worker\obj\Debug\net7.0\refint\Worker.dll
+D:\programmation\dotnet\RabbitMQ\Work Queue\Worker\obj\Debug\net7.0\Worker.pdb
+D:\programmation\dotnet\RabbitMQ\Work Queue\Worker\obj\Debug\net7.0\Worker.genruntimeconfig.cache
+D:\programmation\dotnet\RabbitMQ\Work Queue\Worker\obj\Debug\net7.0\ref\Worker.dll

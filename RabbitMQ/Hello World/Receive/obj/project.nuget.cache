@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "NxBfXL592MSJPdxFmYed3RlOGK8z0WfN1HMLB3PRFT8G1W2VSr6KZYqDLX4a5/OcPPpdMbaW0egsBeGuq0Nbuw==",
+  "success": true,
+  "projectFilePath": "D:\\programmation\\dotnet\\RabbitMQ\\Hello World\\Receive\\Receive.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Elyes\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
+    "C:\\Users\\Elyes\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Elyes\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

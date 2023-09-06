@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "ayrn30x/UOmjNh9GqAQTK4BTEIhI9P6YJ13QTvbT2/AdmzXAGRPVaJODlDzlxrCPq7aqsP0uV+NlxQlqIKjVmQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ayeta\\source\\repos\\OrchestrationPattern\\Saga.Orchestrator\\Saga.Orchestrator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ayeta\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\ayeta\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ayeta\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\ayeta\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\ayeta\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\ayeta\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\ayeta\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
